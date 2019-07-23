@@ -6,6 +6,7 @@ To use this script
 <br>
 <ul>
   <li>Script must be in a directory with sub-directories named after dates in the format YYYY-MM-DD</li>
+  <li>Each sub-directory can have any amount of CSV files, the names of the CSV files doesn't matter</li>
   <li> Running the script (windows)
     <ul>
       <li>in command prompt or powershell type: "py csvConcat.py"</li>
