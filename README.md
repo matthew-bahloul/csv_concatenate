@@ -7,13 +7,11 @@ To use this script
 <ul>
   <li>Script must be in a directory with sub-directories named after dates in the format YYYY-MM-DD</li>
   <li>Each sub-directory can have any amount of CSV files, the names of the CSV files don't matter</li>
-  <li> Running the script (windows)
+  <li> Running the script
     <ul>
-      <li>in command prompt or powershell type: "py csvConcat.py"</li>
+      <li>Windows: in command prompt or powershell type: "py csvConcat.py"</li>
+      <li>MacOS: in terminal type "python3 csvConcat.py"</li>
     </ul>
-  <li> Running the script (MacOs)
-    <ul>
-      <li>in terminal type "python3 csvConcat.py"</li>
     </ul>
   <li>You will be prompted for the name of a directory. The name of must be of the form "YYYY-MM-DD". If the name of the directory matches the current date, you can also just type "today"</li>
   <li>The script will run and concatenate all the files in to a master file in the directory
