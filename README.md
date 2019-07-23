@@ -8,11 +8,11 @@ To use this script
   <li>Script must be in a directory with sub-directories named after dates in the format YYYY-MM-DD</li>
   <li> Running the script (windows)
     <ul>
-      <li>py csvConcat.py</li>
+      <li>in command prompt or powershell type: "py csvConcat.py"</li>
     </ul>
   <li> Running the script (MacOs)
     <ul>
-      <li>python3 csvConcat.py</li>
+      <li>in terminal type "python3 csvConcat.py"</li>
     </ul>
   <li>The script will run and concatenate all the files in the directory given
 </ul>
