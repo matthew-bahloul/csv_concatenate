@@ -14,6 +14,6 @@ To use this script
     <ul>
       <li>in terminal type "python3 csvConcat.py"</li>
     </ul>
-  <li>you will be prompted for the name of a directory. The name of must be in YYYY-MM-DD.</li>
+  <li>you will be prompted for the name of a directory. The name of must be of the form "YYYY-MM-DD". If the name of the directory matches the current date, you can also just type "today"</li>
   <li>The script will run and concatenate all the files in the directory given
 </ul>
