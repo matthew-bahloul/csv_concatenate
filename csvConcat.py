@@ -9,7 +9,7 @@ cwd = os.getcwd()
 
 # lists of possible OS to work on
 windows = ["win32", "cygwin", "msys"]
-linux = ["linux2 (*)"]
+linux = ["linux", "linux2 (*)"]
 macOS = ["darwin"]
 slash = ""
 
